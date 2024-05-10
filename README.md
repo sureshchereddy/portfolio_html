@@ -1,2 +1,2 @@
 # portfolio_html
-html project
+html, javascript and css project
